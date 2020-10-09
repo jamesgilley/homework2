@@ -1,3 +1,13 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.nav-link {
+float: right;
+}
+
 .container {
    
    
@@ -14,24 +24,14 @@ p {
 
 .row {
     padding: 20px;
+
     
 }
 
-@media screen and (max-width: 992px) {
+ @media screen and (max-width: 992px) {
     body {
-        
+       background-color: red; 
     }
   }
 
-  @media screen and (max-width: 768px) {
-    body {
-    
-    }
-  }
-
-  @media screen and (max-width: 400px) {
-    .container {
-    padding: 20px;
-    inline-size: 20px;
-    }
-  }
+ 
