@@ -8,18 +8,16 @@ box-sizing: border-box;
 
 .nav-link {
 float: right;
+font-weight: bold;
+background-color: whitesmoke;
 }
 
-a {
+a { 
 font-family: 'Berkshire Swash', cursive;
 padding: 10px;
 font: #ffe4c4;
 background-color: teal;
-}
-
-b {
-font-family: 'Berkshire Swash', cursive;
-}
+}  */
 
 h1 {
 font-family: 'Berkshire Swash', cursive;
@@ -44,7 +42,7 @@ font-family: 'Grand Hotel', cursive;
 
  @media screen and (max-width: 992px) {
     body {
-       background-color: red; 
+       width: 100%;
     }
   }
 
