@@ -34,12 +34,15 @@ font-family: 'Grand Hotel', cursive;
     margin-bottom: 20px;
 }
 
-.row {
-    padding: 20px;
+ 
 
-    
+footer {
+    text-align: center;
+    font-weight: bold;
+    color: teal;
+    padding-bottom: 20px;
+
 }
-
  @media screen and (max-width: 992px) {
     body {
        width: 100%;
