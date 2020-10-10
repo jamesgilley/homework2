@@ -1,19 +1,36 @@
 body {
-    margin: 0px;
-    padding: 0px;
-    box-sizing: border-box;
+margin: 0px;
+padding: 0px;
+
+box-sizing: border-box;
 }
+
 
 .nav-link {
 float: right;
 }
 
+a {
+font-family: 'Berkshire Swash', cursive;
+padding: 10px;
+font: #ffe4c4;
+background-color: teal;
+}
 
+b {
+font-family: 'Berkshire Swash', cursive;
+}
+
+h1 {
+font-family: 'Berkshire Swash', cursive;
+font-weight: bold;
+color: teal;
+}
 
 p {
-    padding-top: 20px;
-    text-indent: 15px;
+font-family: 'Grand Hotel', cursive;
 }
+
 
 .btn-primary {
     margin-bottom: 20px;
